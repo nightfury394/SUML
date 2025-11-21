@@ -3,3 +3,5 @@ joblib
 streamlit
 flake8
 safety
+pytest
+numpy
