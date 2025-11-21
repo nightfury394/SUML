@@ -19,5 +19,6 @@ def test_predict():
     prediction = predict(model, sample_features)
     
     # The Iris dataset has 3 classes: 0, 1, 2
-    assert isinstance(prediction, int)
+    import numbers
+    assert isinstance(prediction, numbers.Integral)
     assert prediction in [0, 1, 2]
