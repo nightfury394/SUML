@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/mlruns/638830949075684771/70191f082e374b59ade32cdd96c8f56c/artifacts
+end_time: 1767451252944
+entry_point_name: ''
+experiment_id: '638830949075684771'
+lifecycle_stage: active
+run_id: 70191f082e374b59ade32cdd96c8f56c
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767451250751
+status: 3
+tags: []
+user_id: mdjakariaislamshanto

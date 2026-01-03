@@ -1,0 +1,9 @@
+{
+    "best_model": "RandomForest",
+    "metrics": {
+        "accuracy": 1.0,
+        "f1_macro": 1.0
+    },
+    "mlflow_run_id": "be072ad266234bedab12e5660fd68379",
+    "version": "v1.0.0"
+}

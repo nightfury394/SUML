@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/mlruns/638830949075684771/868381bfc93c48c9b951b8d7ffc4f48e/artifacts
+end_time: 1767451227005
+entry_point_name: ''
+experiment_id: '638830949075684771'
+lifecycle_stage: active
+run_id: 868381bfc93c48c9b951b8d7ffc4f48e
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767451223204
+status: 3
+tags: []
+user_id: mdjakariaislamshanto
