@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/mlruns/638830949075684771/38b03ce4976e477d90a9bb8af0ca561c/artifacts
+end_time: 1768503145355
+entry_point_name: ''
+experiment_id: '638830949075684771'
+lifecycle_stage: active
+run_id: 38b03ce4976e477d90a9bb8af0ca561c
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768503143858
+status: 3
+tags: []
+user_id: mdjakariaislamshanto

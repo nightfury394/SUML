@@ -20,3 +20,23 @@ if st.button("Predict"):
 
     species = ["Setosa", "Versicolor", "Virginica"]
     st.success(f"The predicted species is: **{species[prediction]}**")
+
+# Footer with Model Metadata
+import json
+import os
+
+meta_path = os.path.join(os.path.dirname(__file__), "model_meta.json")
+if os.path.exists(meta_path):
+    with open(meta_path, "r") as f:
+        meta = json.load(f)
+    
+    st.markdown("---")
+    st.markdown(
+        f"**Version:** {meta['version']} • "
+        f"**Best model:** {meta['best_model']} • "
+        f"**MLflow run:** `{meta['mlflow_run_id']}` • "
+        f"**Accuracy:** `{meta['metrics']['accuracy']:.3f}`"
+    )
+    st.markdown(f"[View in MLflow UI](http://localhost:5000)")
+else:
+    st.warning("Model metadata not found.")

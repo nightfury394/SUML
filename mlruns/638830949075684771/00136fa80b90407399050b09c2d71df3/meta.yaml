@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/mlruns/638830949075684771/00136fa80b90407399050b09c2d71df3/artifacts
+end_time: 1768503142404
+entry_point_name: ''
+experiment_id: '638830949075684771'
+lifecycle_stage: active
+run_id: 00136fa80b90407399050b09c2d71df3
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768503140897
+status: 3
+tags: []
+user_id: mdjakariaislamshanto

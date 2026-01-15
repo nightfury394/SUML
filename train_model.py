@@ -27,6 +27,9 @@ def train_and_evaluate(model, model_name, X_train, X_test, y_train, y_test):
 
         # Log parameters
         mlflow.log_params(model.get_params())
+        
+        # Log tags
+        mlflow.set_tag("version", "v1.0.0")
 
         # Log metrics
         accuracy = accuracy_score(y_test, y_pred)
