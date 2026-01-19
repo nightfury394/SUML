@@ -1,4 +1,4 @@
-# SUML: A Simple Machine Learning Project
+# SUML: Machine Learning Project
 
 This project is a simple machine learning application that demonstrates how to train a model and use it for predictions in a web application.
 
