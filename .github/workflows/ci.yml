@@ -39,4 +39,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/mdjakariaislamshanto/iris-streamlit:latest
+        tags: ghcr.io/nightfury394/iris-streamlit:latest
