@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/iris-kedro/../mlruns/402209108315838072/96441f0ca5a44913b9375a0e10a73a9e/artifacts
+end_time: 1768822301721
+entry_point_name: ''
+experiment_id: '402209108315838072'
+lifecycle_stage: active
+run_id: 96441f0ca5a44913b9375a0e10a73a9e
+run_name: KNN
+run_uuid: 96441f0ca5a44913b9375a0e10a73a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768822299179
+status: 3
+tags: []
+user_id: mdjakariaislamshanto

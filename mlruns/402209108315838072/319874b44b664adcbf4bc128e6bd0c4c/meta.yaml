@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/iris-kedro/../mlruns/402209108315838072/319874b44b664adcbf4bc128e6bd0c4c/artifacts
+end_time: 1768822307555
+entry_point_name: ''
+experiment_id: '402209108315838072'
+lifecycle_stage: active
+run_id: 319874b44b664adcbf4bc128e6bd0c4c
+run_name: iris_training
+run_uuid: 319874b44b664adcbf4bc128e6bd0c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768822299138
+status: 3
+tags: []
+user_id: mdjakariaislamshanto

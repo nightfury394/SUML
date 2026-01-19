@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mdjakariaislamshanto/Desktop/SUML/mlruns/638830949075684771/models/m-611ac0ca30e344a9879537aa578a687c/artifacts
+creation_timestamp: 1768581627061
+experiment_id: '638830949075684771'
+last_updated_timestamp: 1768581628368
+model_id: m-611ac0ca30e344a9879537aa578a687c
+model_type: null
+name: model
+source_run_id: 4680f0c0e5b0413482c3c30412ee66ac
+status: 2
+status_message: null

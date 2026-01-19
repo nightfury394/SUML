@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1768822307543
+current_stage: None
+description: null
+last_updated_timestamp: 1768822307543
+name: IrisModel
+run_id: 96441f0ca5a44913b9375a0e10a73a9e
+run_link: null
+source: file:///Users/mdjakariaislamshanto/Desktop/SUML/iris-kedro/../mlruns/402209108315838072/96441f0ca5a44913b9375a0e10a73a9e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/mdjakariaislamshanto/Desktop/SUML/iris-kedro/../mlruns/402209108315838072/96441f0ca5a44913b9375a0e10a73a9e/artifacts/model
+user_id: null
+version: 5

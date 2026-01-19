@@ -1,0 +1,3 @@
+project_name: "iris-kedro"
+repo_name: "iris-kedro"
+python_package: "iris_kedro"

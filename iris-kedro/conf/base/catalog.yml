@@ -1,0 +1,46 @@
+# Data Catalog for Iris Training Pipeline
+# Documentation: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+# Intermediate datasets (in-memory)
+X:
+  type: MemoryDataset
+
+y:
+  type: MemoryDataset
+
+class_names:
+  type: MemoryDataset
+
+X_train:
+  type: MemoryDataset
+
+X_test:
+  type: MemoryDataset
+
+y_train:
+  type: MemoryDataset
+
+y_test:
+  type: MemoryDataset
+
+# Model training results (in-memory)
+knn_result:
+  type: MemoryDataset
+
+logreg_result:
+  type: MemoryDataset
+
+rf_result:
+  type: MemoryDataset
+
+svm_result:
+  type: MemoryDataset
+
+best_model_name:
+  type: MemoryDataset
+
+best_run_id:
+  type: MemoryDataset
+
+model_metadata_path:
+  type: MemoryDataset

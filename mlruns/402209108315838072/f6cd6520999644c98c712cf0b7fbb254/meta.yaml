@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdjakariaislamshanto/Desktop/SUML/iris-kedro/../mlruns/402209108315838072/f6cd6520999644c98c712cf0b7fbb254/artifacts
+end_time: 1768822303634
+entry_point_name: ''
+experiment_id: '402209108315838072'
+lifecycle_stage: active
+run_id: f6cd6520999644c98c712cf0b7fbb254
+run_name: LogisticRegression
+run_uuid: f6cd6520999644c98c712cf0b7fbb254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768822301734
+status: 3
+tags: []
+user_id: mdjakariaislamshanto
