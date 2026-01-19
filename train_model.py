@@ -102,6 +102,9 @@ def main():
 
     print(f"Best model: {best_model_name} with F1-score: {best_f1}")
 
+    # Create app directory if it doesn't exist
+    os.makedirs("app", exist_ok=True)
+
     # Save the best model locally
     best_model_uri = f"runs:/{best_model_run_id}/model"
     best_model = mlflow.sklearn.load_model(best_model_uri)
